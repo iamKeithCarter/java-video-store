@@ -1,3 +1,5 @@
+import java.io.FileOutputStream;
+import java.io.PrintStream;
 
 public class VideoStoreApp {
 
@@ -29,7 +31,11 @@ public class VideoStoreApp {
 		rentals.add(rented7);
 		rentals.add(rented8);
 
-		rentals.print();
+		rentals.prints();
+		
+	
+	//	PrintStream toFile = new PrintStream(toFile);
+		//rentals.print();
 
 	}
 
