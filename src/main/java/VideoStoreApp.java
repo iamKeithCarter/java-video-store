@@ -19,6 +19,7 @@ public class VideoStoreApp {
 		Rental rented8 = new Rental(newRelease, 5);
 
 		RentalStatement rentals = new RentalStatement();
+		
 		rentals.add(rented);
 		rentals.add(rented2);
 		rentals.add(rented3);

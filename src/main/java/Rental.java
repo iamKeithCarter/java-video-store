@@ -1,5 +1,6 @@
 import java.math.BigDecimal;
 
+
 public class Rental {
 
 	private String title;

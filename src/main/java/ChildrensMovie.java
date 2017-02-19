@@ -11,6 +11,7 @@ public class ChildrensMovie extends Movie {
 		return priceCode;
 	}
 
+	
 	@Override
 	public BigDecimal calculateFees(int days) {
 

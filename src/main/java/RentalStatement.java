@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 import java.util.Collection;
 
+
 public class RentalStatement {
 
 	Collection<Rental> rentals = new ArrayList<Rental>();

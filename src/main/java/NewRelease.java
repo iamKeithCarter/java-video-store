@@ -1,5 +1,6 @@
 import java.math.BigDecimal;
 
+
 public class NewRelease extends Movie {
 
 	public NewRelease(String title, String priceCode) {
